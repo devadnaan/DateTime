@@ -1,5 +1,5 @@
 # Preview
-![time](https://github.com/devadnaan/DateTime/assets/155459697/9f6d9148-a6a2-4b74-b57b-334558af1851)
+![date](https://github.com/devadnaan/DateTime/assets/155459697/36ed013e-2f95-44b3-a6c8-d95ca3285eae)
 
 ## Package used 
 [Rsuite](https://rsuitejs.com/)
