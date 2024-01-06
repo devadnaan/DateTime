@@ -17,6 +17,17 @@ export default function index() {
           defaultCalendarValue={[new Date('2022-02-01 00:00:00'), new Date('2022-05-01 23:59:59')]}
         />
       </div>
+
+
+      {/* Date Time picker with AM and PM */}
+      <div className={styles.container}>
+        <DateRangePicker
+          placeholder={'Date Time Picker'}
+          format="yyyy-MM-dd HH:mm:ss"
+          showMeridian
+          defaultCalendarValue={[new Date('2022-02-01 00:00:00'), new Date('2022-05-01 23:59:59')]}
+        />
+      </div>
     </>
   )
 }
